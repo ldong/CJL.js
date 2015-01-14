@@ -1,6 +1,6 @@
 # Cloudgamer JavaScript Library
 
-Author: Cloudgamer
+Author: [Cloudgamer](http://www.cnblogs.com/cloudgamer/)
 
 Project [README](http://goo.gl/88Pv2y) in *Chinese*
 
